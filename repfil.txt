@@ -1,6 +1,13 @@
 this is first sentence in the file
 adding second sentence for checking the blob value.
+<<<<<<< HEAD
 #conflict may be occur
 adding another sentence.
 not commited.
 
+dding third sentence in file for checking the merge-base.
+adding fourth sentence in the file..just for another commit. 
+
+#conflict may be occur
+adding another sentence.
+not commited.
